@@ -1,0 +1,269 @@
+esi-isien huuto
+esi-isien suojelija
+esi-isien varoitus
+suututtaa
+animoida huoltaja
+animoida ase
+kaari
+arcane viitta
+tuotemerkin arcanist
+arktinen panssari
+Armageddon-tuotemerkki
+ballista tykistö
+salamurhaajan merkki
+pallosalama
+bane
+pato
+karhun ansa
+Berserk
+räjähdys
+tuulenpitävä terä
+pyörre terä
+bladefall
+bladestorm
+sateen räjähdys
+palava salvo
+vitsaus
+vilkkuu nuoli
+veren raivo
+verta ja hiekkaa
+kehon vaihto
+luuuhri
+tuotemerkin palautus
+palava nuoli
+kaustinen nuoli
+ketjukoukku
+ladattu viiva
+selkeys
+pilkkoa
+kobra ripset
+kylmä snap
+johtavuus
+pyhitetty polku
+tartunta
+muunnosloukku
+kokous
+rätinä
+hiipivä pakkanen
+tuhkaus
+sykloni
+tumma sopimus
+viiva
+houkutteleva toteemi
+häpäistä
+epätoivo
+päättäväisyys
+räjähtää kuollut
+syö totemia
+purkaus
+kurinalaisuutta
+jumalallinen viha
+hallitseva isku
+kaksinkertainen lakko
+pelon banneri
+kaksoislakko
+maanjäristys
+maanjäristys
+alkuhitti
+alkeellinen heikkous
+kestävä itku
+heikentää
+ankkuroiva nuoli
+olemus valua
+eteeriset veitset
+räjähtävä nuoli
+räjähtävä ansa
+tuli Ansa
+tulipallo
+tulimyrsky
+liekki viiva
+liekin aalto
+liekkiseinä
+flameblast
+liekinheittimen ansa
+syttyvyys
+lihauhri
+liha ja kivi
+välkyntä
+jäätymispulssi
+vimma
+pakkaset
+pakkaspommi
+huurrekilpi
+halla seinä
+paleltumia
+huurre
+huurre
+galvaaninen nuoli
+kenraalin itku
+jäätikön kaskadi
+jäätikön vasara
+armo
+jauhettu slam
+kiire
+viha
+raskas lakko
+tuskan julistaja
+tuhkan julistaja
+jään ilmoittaja
+puhtauden julistaja
+ukkosen julistaja
+heksapuhallettu
+pyhä liekki toteemi
+hydrosfääri
+jään kaatuminen
+jää nova
+jää ampui
+jään keihäs
+jääloukku
+jääpuikon kaivos
+kuolematon menetys
+polttaa
+helvetin isku
+helvetin huuto
+pelottava itku
+kineettinen räjähdys
+kineettinen pultti
+repiä
+terävä terä
+harppaus slam
+salaman nuoli
+salaman torni ansa
+Salamanisku
+salaman jänteet
+salamanloukku
+salaman loimi
+pahansuopaisuus
+peilinuoli
+sula kuori
+sula lakko
+myrskyjen orb
+tuotemerkin katumus
+rei'itetty
+tuhoisa lakko
+vaiheajo
+rutokantaja
+salametsästäjän merkki
+tehosifoni
+tarkkuus
+ylpeys
+puhkaisu
+rangaistus
+puhdistava liekki
+alkioiden puhtaus
+tulen puhtaus
+jään puhtaus
+salaman puhtaus
+pyroklastikaivos
+nuolien sade
+nosta haamu
+nosta zombi
+iskulause
+reave
+laskeminen
+toteemin nuorentaminen
+vanhurskas tulipalo
+riposte
+liikkuva magma
+polttava säde
+vitsaus nuoli
+polttava sidos
+seisminen huuto
+seisminen ansa
+murtava teräs
+kilven lataus
+shokki nova
+Shockwave-toteemi
+sirpaleet ballista
+piiritys ballista
+Sigil valtaa
+sifonointilukko
+lyödä
+savukaivos
+ampujamerkki
+sielu
+kipinä
+spektrikilven heitto
+spektrinheitto
+oikeinkirjoittaja
+henkiuhri
+jaettu nuoli
+halkaisuteräs
+staattinen lakko
+teräsnahkaa
+tuotemerkki myrsky
+puhkesi myrsky
+surullinen myrsky
+myrskyside
+myrskyn kaivos
+kutsua carrion golem
+kutsua kaaoksen golem
+kutsua liekin golem
+kutsu pyhä pyhäinjäännös
+kutsua jään golem
+kutsua salaman golem
+kutsua raivoava henki
+kutsua luurankoja
+kutsua skitterbotit
+kutsua kivi golem
+aurinko
+lakaista
+tektoninen slam
+myrsky kilpi
+ajalliset ketjut
+tornado laukaus
+myrkyllinen sade
+kaivaa
+vaalien esi-isien varoitus
+vaalea kaari
+vaalean terän pyörre
+vaal blight
+vaal polttava nuoli
+vaal selkeys
+vaal kylmä snap
+vaal sykloni
+vaal räjähtää kuollut
+vaal kurinalaisuus
+vaal kaksoislakko
+vaal maanjäristys
+vaal tulipallo
+vaal flameblast
+vaalea jäätikövasara
+vaal armo
+vaal maa slam
+vaal kiire
+vaal ice nova
+vaalea tulen epäpuhtaus
+vaalea jään epäpuhtaus
+vaalea salaman epäpuhtaus
+vaalean salaman isku
+vaalea salamanloukku
+vaal sula sula
+vaal tehosifoni
+vaalea nuolien sade
+vaal reave
+vaal vanhurskas tuli
+vaal kipinä
+vaal spektraaliheitto
+vaal myrsky kutsu
+vaal kutsua luurankoja
+kosto
+myrkky gyre
+valpas lakko
+kyykälakko
+elinvoimaa
+mitätön pallo
+kuollut haihtuva
+pyörre
+haavoittuvuus
+sodan lippu
+sotapäällikön merkki
+vakaumuksen aalto
+pyörivät terät
+villi lakko
+talvi orb
+talvituotemerkki
+kuihtua
+kuihtumisvaihe
+viha
+kiihkoilu
