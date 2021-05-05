@@ -93,7 +93,6 @@ huurrekilpi
 halla seinä
 paleltumia
 huurre
-huurre
 galvaaninen nuoli
 kenraalin itku
 jäätikön kaskadi
@@ -109,6 +108,8 @@ jään ilmoittaja
 puhtauden julistaja
 ukkosen julistaja
 heksapuhallettu
+BFBB
+flicker
 pyhä liekki toteemi
 hydrosfääri
 jään kaatuminen
@@ -190,7 +191,7 @@ henkiuhri
 jaettu nuoli
 halkaisuteräs
 staattinen lakko
-teräsnahkaa
+teräsnahka
 tuotemerkki myrsky
 puhkesi myrsky
 surullinen myrsky
@@ -217,7 +218,7 @@ kaivaa
 vaalien esi-isien varoitus
 vaalea kaari
 vaalean terän pyörre
-vaal blight
+vaal vitsaus
 vaal polttava nuoli
 vaal selkeys
 vaal kylmä snap
