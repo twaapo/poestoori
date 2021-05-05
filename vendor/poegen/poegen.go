@@ -11,9 +11,7 @@ import (
 )
 
 var (
-	normi    string = "moro %{ketk}s :D mitä %{ketk}s :D. tänää levutetaan %{skill}s %{class}s. tän buildin keksin ku olin %{mesta}s %{hommat}s. Isketään viel %{unique}s sekaan tuomaan vähä semmost %{mausteet}s sekaa :D. nonii toivottavasti tykkäätte. mä rakastan teit %{ketk}s."
-	stoori   string = fmt.Sprintf("%s\n\n%s", normi, omistus)
-	omistus  string = "%{izaro}s\n - Keisari Izaro\n"
+	stoori   string = "moro %{ketk}s :D mitä %{ketk}s :D. tänää levutetaan %{skill}s %{class}s. tän buildin keksin ku olin %{mesta}s %{hommat}s. Isketään viel %{unique}s buildiin tuomaan vähä semmost %{mausteet}s sekaa :D. kuten keisari izarokin sanoi: \"%{izaro}s\" nonii toivottavasti tykkäätte. mä rakastan teit %{ketk}s."
 	datapath string = "datafiles"
 	dmap     map[string][]string
 )
