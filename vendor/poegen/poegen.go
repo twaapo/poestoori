@@ -11,7 +11,7 @@ import (
 )
 
 var (
-	stoori   string = "moro %{ketk}s :D mitä %{ketk}s :D. tänää levutetaan %{suomiskill}s %{suomiclass}s. tän buildin keksin ku olin %{mesta}s %{hommat}s. Isketään buildiin viel %{unique}s jonka löysin ku olin %{alueet}s farmaa tuomaan vähä semmost %{mausteet}s sekaa :D. kuten keisari izarokin sanoi: \"%{izaro}s\" nonii toivottavasti tykkäätte. mä rakastan teit %{ketk}s."
+	stoori   string = "moro %{ketk}s :D mitä %{ketk}s :D. tänää levutetaan %{suomiskill}s %{suomiclass}s. tän buildin keksin ku olin %{mesta}s %{hommat}s. Tähän buildiin tarvitaan ainaki %{iteminosa}s jonka %{hankinta}s %d %{rahat}s. isketään buildiin viel %{unique}s jonka löysin ku olin %{alueet}s farmaa tuomaan vähä semmost %{mausteet}s sekaa :D. kuten keisari izarokin sanoi: \"%{izaro}s\" nonii toivottavasti tykkäätte. mä rakastan teit %{ketk}s."
 	datapath string = "datafiles"
 	dmap     map[string][]string
 )
@@ -20,7 +20,7 @@ func Tgen(format string, params map[string]string) string {
 	for key, val := range params {
 		format = strings.Replace(format, "%{"+key+"}s", val, -1)
 	}
-	return format
+	return fmt.Sprintf(format, rand.Int31n(666))
 }
 
 func populateKeys(files []fs.FileInfo) (map[string][]string, error) {
