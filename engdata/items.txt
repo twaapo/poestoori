@@ -213,6 +213,448 @@ Xoph's Blood
 Xoph's Heart
 Yoke of Suffering
 Zerphi's Heart
+Abberath's Hooves
+Abhorrent Interrogation
+Abyssus
+Aegis Aurora
+Ahn's Contempt
+Ahn's Heritage
+Alberon's Warpath
+Algor Mortis
+Allelopathy
+Alpha's Howl
+Ambu's Charge
+Ancient Skull
+Apep's Slumber
+Apep's Slumber
+Apep's Supremacy
+Architect's Hand
+Architect's Hand
+Asenath's Chant
+Asenath's Gentle Touch
+Asenath's Mark
+Ashrend
+Asphyxia's Wrath
+Assailum
+Atziri's Acuity
+Atziri's Mirror
+Atziri's Reflection
+Atziri's Splendour
+Atziri's Step
+Aukuna's Will
+Aurseize
+Beacon of Madness
+Belly of the Beast
+Bitterbind Point
+Blackgleam
+Blackgleam
+Black Sun Crest
+Blasphemer's Grasp
+Bloodbond
+Blunderbore
+Bones of Ullr
+Bramblejack
+Breathstealer
+Brinerot Flag
+Brinerot Whalers
+Briskwrap
+Broadstroke
+Broken Faith
+Bronn's Lithe
+Bubonic Trail
+Carcass Jack
+Chains of Command
+Chalice of Horrors
+Chernobog's Pillar
+Cherrubim's Maleficence
+Chitus' Apex
+Cloak of Defiance
+Cloak of Flame
+Cloak of Tawm'r Isley
+Command of the Pit
+Corpsewalker
+Cospri's Will
+Cowl of the Ceraunophile
+Cowl of the Cryophile
+Cowl of the Thermophile
+Cragfall
+Craghead
+Craiceann's Carapace
+Craiceann's Chitin
+Craiceann's Pincers
+Craiceann's Tracks
+Crest of Desire
+Crest of Perandus
+Crown of Eyes
+Crown of the Inward Eye
+Crown of the Pale King
+Crown of the Tyrant
+Crown of Thorns
+Crystal Vault
+Curtain Call
+Dance of the Offered
+Dance of the Offered
+Daresso's Courage
+Daresso's Defiance
+Darkray Vectors
+Death's Door
+Death's Oath
+Deerstalker
+Deidbell
+Deidbellow
+Demigod's Beacon
+Demigod's Dominance
+Demigod's Immortality
+Demigod's Stride
+Demigod's Touch
+Demigod's Triumph
+Demon Stitcher
+Dendrobate
+Deshret's Vise
+Devoto's Devotion
+Dialla's Malefaction
+Doedre's Malevolence
+Doedre's Scorn
+Doedre's Skin
+Doedre's Tenure
+Doppelgänger Guise
+Doryani's Delusion
+Doryani's Delusion
+Doryani's Delusion
+Doryani's Fist
+Doryani's Prototype
+Drillneck
+Duskblight
+Duskblight
+Dusktoe
+Dusktoe
+Eber's Unification
+Emperor's Vigilance
+Empire's Grasp
+Esh's Mirror
+Esh's Visage
+Expedition's End
+Eye of Malice
+Ezomyte Hold
+Ezomyte Peak
+Facebreaker
+Fairgraves' Tricorne
+Farrul's Bite
+Farrul's Chase
+Farrul's Fur
+Farrul's Pounce
+Fenumus' Shroud
+Fenumus' Spinnerets
+Fenumus' Toxins
+Fenumus' Weave
+Flamesight
+Flesh and Spirit
+Fleshcrafter
+Font of Thunder
+Forbidden Shako
+Fox's Fortune
+Foxshade
+Fractal Thoughts
+Frostferno
+Galesight
+Gang's Momentum
+Garb of the Ephemeral
+Garukhan's Flight
+Geofri's Crest
+Geofri's Legacy
+Geofri's Sanctuary
+Giantsbane
+Glimpse of Chaos
+Glitterdisc
+Goldrim
+Goldwyrm
+Gorgon's Gaze
+Great Old One's Tentacles
+Great Old One's Ward
+Greed's Embrace
+Greedtrap
+Grip of the Council
+Gruthkul's Pelt
+Haemophilia
+Hale Negator
+Hand of the Fervent
+Hands of the High Templar
+Hateforge
+Heatshiver
+Hellbringer
+Heretic's Veil
+Honourhome
+Hrimburn
+Hrimnor's Resolve
+Hrimsorrow
+Hyrri's Bite
+Hyrri's Demise
+Hyrri's Ire
+Icetomb
+Incandescent Heart
+Indigon
+Infernal Mantle
+Infernal Mantle
+Inpulsa's Broken Heart
+Invictus Solaris
+Inya's Epiphany
+Iron Heart
+Jaws of Agony
+Kalisa's Grace
+Kaltenhalt
+Kaltensoul
+Kaom's Heart
+Kaom's Roots
+Kingsguard
+Kintsugi
+Kitava's Thirst
+Kongming's Stratagem
+Leer Cast
+Legacy of Fury
+Leper's Alms
+Lightbane Raiment
+Lightning Coil
+Light of Lunaris
+Lightpoacher
+Lioneye's Paws
+Lioneye's Remorse
+Lioneye's Vision
+Lochtonial Caress
+Loreweave
+Lycosidae
+Machina Mitts
+Magna Eclipsis
+Mahuxotl's Machination
+Malachai's Awakening
+Malachai's Loop
+Malachai's Mark
+Malachai's Simula
+Malachai's Vision
+Maligaro's Lens
+Maligaro's Virtuosity
+Maloney's Mechanism
+Maloney's Nightfall
+Manastorm
+March of the Legion
+Mark of the Red Covenant
+Martyr's Crown
+Mask of the Spirit Drinker
+Mask of the Spirit Drinker
+Mask of the Stitched Demon
+Mask of the Tribunal
+Matua Tupuna
+Maw of Conquest
+Maw of Mischief
+Meginord's Vise
+Memory Vault
+Mercenary's Lot
+Mind of the Council
+Mindspiral
+Mistwall
+Mutewind Pennant
+Mutewind Whispersteps
+Nomic's Storm
+Null and Void
+Obscurantis
+Offering to the Serpent
+Omeyocan
+Ondar's Clasp
+Victario's Flight
+Oskarm
+Painseeker
+Perepiteia
+Perfidy
+Plume of Pursuit
+Prism Guardian
+Qotra's Regulator
+Queen of the Forest
+Rainbowstride
+Ralakesh's Impatience
+Rathpith Globe
+Rat's Nest
+Rearguard
+Reckless Defence
+Redblade Banner
+Redblade Tramplers
+Remnant of Empires
+Repentance
+Replica Abyssus
+Replica Alberon's Warpath
+Replica Allelopathy
+Replica Alpha's Howl
+Replica Ambu's Charge
+Replica Atziri's Acuity
+Replica Bones of Ullr
+Replica Eternity Shroud
+Replica Farrul's Fur
+Replica Forbidden Shako
+Replica Grip of the Council
+Replica Inya's Epiphany
+Replica Kalisa's Grace
+Replica Kaom's Heart
+Replica Leer Cast
+Replica Lioneye's Paws
+Replica Loreweave
+Replica Maloney's Mechanism
+Replica Mistwall
+Replica Perfect Form
+Replica Red Trail
+Replica Restless Ward
+Replica Shroud of the Lightless
+Replica Soul Strike
+Replica Stampede
+Replica Three-step Assault
+Replica Tukohama's Fortress
+Replica Veil of the Night
+Replica Victario's Charity
+Replica Voidwalker
+Replica Volkuur's Guidance
+Rigwald's Quills
+Rime Gaze
+Rise of the Phoenix
+Rotting Legion
+Sadima's Touch
+Saemus' Gift
+Saffell's Frame
+Saqawal's Flock
+Saqawal's Nest
+Saqawal's Talons
+Saqawal's Winds
+Scold's Bridle
+Scorpion's Call
+Sentari's Answer
+Seven-League Step
+Shackles of the Wretched
+Shadows and Dust
+Shadowstitch
+Shaper's Touch
+Shattershard
+Shavronne's Gambit
+Shavronne's Pace
+Shavronne's Wrappings
+Shroud of the Lightless
+Sin Trek
+Skin of the Lords
+Skin of the Loyal
+Skirmish
+Skullhead
+Skyforth
+Slavedriver's Hand
+Slitherpinch
+Slivers of Providence
+Snakebite
+Solaris Lorica
+Soul Mantle
+Soul Strike
+Southbound
+Speaker's Wreath
+Sporeguard
+Springleaf
+Starkonja's Head
+Steelworm
+Steppan Eard
+Stormcharger
+Storm's Gift
+Sundance
+Sunspite
+Surgebinders
+Tabula Rasa
+Temptation Step
+The Admiral
+The Anticipation
+The Baron
+The Beast Fur Shawl
+The Blood Dance
+The Brass Dome
+The Brine Crown
+The Bringer of Rain
+The Broken Crown
+The Coming Calamity
+The Covenant
+The Deep One's Hide
+The Devouring Diadem
+The Embalmer
+The Eternal Apple
+The Eternity Shroud
+The Fledgling
+The Formless Flame
+The Formless Inferno
+The Fracturing Spinner
+The Ghastly Theatre
+The Gull
+The Immortal Will
+The Infinite Pursuit
+The Iron Fortress
+The Ivory Tower
+The Oak
+The Peregrine
+The Perfect Form
+The Queen's Hunger
+The Rat Cage
+The Red Trail
+The Restless Ward
+The Scales of Justice
+The Shattered Divinity
+The Signal Fire
+The Signal Fire
+The Snowblind Grace
+The Stampede
+The Surrender
+The Tempest's Binding
+The Tempest's Liberation
+The Three Dragons
+The Unshattered Will
+The Vertex
+Thirst for Horrors
+Thousand Ribbons
+Thousand Teeth Temu
+Three-step Assault
+Thunderfist
+Thundersight
+Tinkerskin
+Titucius' Span
+Titucus Span
+Tombfist
+Torchoak Step
+Triad Grip
+Trolltimber Spire
+Tukohama's Fortress
+Unyielding Flame
+Vaal Caress
+Veil of the Night
+Veruso's Battering Rams
+Victario's Charity
+Victario's Influence
+Viper's Scales
+Viridi's Veil
+Vis Mortis
+Vixen's Entrapment
+Vix Lunaris
+Voidbringer
+Voidfletcher
+Voidwalker
+Volkuur's Guidance
+Voll's Protector
+Voll's Vision
+Wake of Destruction
+Wall of Brambles
+Wanderlust
+Whakatutuki o Matua
+Wheel of the Stormsail
+Wildwrap
+Willclash
+Windscream
+Windshriek
+Winds of Change
+Wondertrap
+Worldcarver
+Wraithlord
+Wreath of Phrecia
+Wyrmsign
+Ylfeban's Trickery
+Yriel's Fostering
+Zahndethus' Cassock
+Zeel's Amplifier
 Abberath's Horn
 Actum
 Advancing Fortress

@@ -94,7 +94,8 @@ func parseItemJson(fname string) {
 		panic("json")
 	}
 	var data []cat
-	data = append(data, idata.Result[0:1]...)
+	data = append(data, idata.Result[0])
+	data = append(data, idata.Result[1])
 	data = append(data, idata.Result[8])
 	var usons []entry
 	for _, c := range data {
