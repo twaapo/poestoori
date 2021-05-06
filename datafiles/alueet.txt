@@ -1,5 +1,5 @@
 daresson unelmas
-doedren cesspoolis
+doedren likakaivos
 highgatel
 kaomin unelmas
 kaomin linnakkeel
@@ -50,13 +50,13 @@ kuivattu järvel
 eebenpuun kasarmil
 ruokintakaukalos
 tunturin pyhäkön raunioil
-fetid-altaas
+haiseva-altaas
 tulvivat syvyydel
 juurella
 metsäleiris
 viljaportil
 suuri areenal
-grand promenades
+suuri kävelykadul
 sataman sillal
 sadonkorjuul
 korkeat puutarhoil
