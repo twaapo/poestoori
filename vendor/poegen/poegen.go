@@ -1,6 +1,7 @@
 package poegen
 
 import (
+	"encoding/json"
 	"fmt"
 	"io/fs"
 	"io/ioutil"
@@ -10,10 +11,29 @@ import (
 	"time"
 )
 
+type items struct {
+	Result []cat `json:"result"`
+}
+type cat struct {
+	ID      string  `json:"id"`
+	Label   string  `json:"label"`
+	Entries []entry `json:"entries"`
+}
+
+type entry struct {
+	Name  string `json:"name"`
+	Type  string `json:"type"`
+	Text  string `json:"text"`
+	Flags struct {
+		Unique bool `json:"unique"`
+	} `json:"flags"`
+}
+
 var (
 	stoori   string = "moro %{ketk}s :D mitä %{ketk}s :D. tänää levutetaan %{suomiskill}s %{suomiclass}s. tän buildin keksin ku olin %{mesta}s %{hommat}s. buildin perusrunko on %{iteminosa}s jonka %{hankinta}s %d %{rahat}s. isketään buildiin viel %{unique}s jonka löysin ku olin %{alueet}s farmaa tuomaan vähä semmost %{mausteet}s sekaa :D. kuten keisari izarokin sanoi: \"%{izaro}s\" nonii toivottavasti tykkäätte. mä rakastan teit %{ketk}s."
 	datapath string = "datafiles"
 	dmap     map[string][]string
+	uniqs    []string
 )
 
 func Tgen(format string, params map[string]string) string {
@@ -54,6 +74,44 @@ func pickString(data map[string][]string) (map[string]string, error) {
 	return ret, nil
 }
 
+// refresh eng itemnames
+func parseItemJson(fname string) {
+	f, err := os.Open(fname)
+	if err != nil {
+		panic(err)
+	}
+	var idata items
+	d, err := ioutil.ReadAll(f)
+	if err != nil {
+		panic("json file")
+	}
+	f.Close()
+	f, err = os.Create("engdata/items.txt")
+	if err != nil {
+		panic(err)
+	}
+	if err = json.Unmarshal(d, &idata); err != nil {
+		panic("json")
+	}
+	var data []cat
+	data = append(data, idata.Result[0:1]...)
+	data = append(data, idata.Result[8])
+	var usons []entry
+	for _, c := range data {
+		for _, item := range c.Entries {
+			if item.Flags.Unique {
+				usons = append(usons, item)
+			}
+		}
+	}
+	for _, u := range usons {
+		uniqs = append(uniqs, u.Name)
+		fmt.Fprintln(f, u.Name)
+	}
+	f.Close()
+	fmt.Println(uniqs)
+}
+
 func init() {
 	var err error
 	datas, err := ioutil.ReadDir("datafiles")
@@ -64,6 +122,7 @@ func init() {
 	if err != nil {
 		panic("pop map")
 	}
+	parseItemJson("items.json")
 }
 
 func Generate() string {
