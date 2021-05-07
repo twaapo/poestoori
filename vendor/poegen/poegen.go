@@ -86,7 +86,7 @@ func parseItemJson(fname string) {
 		panic("json file")
 	}
 	f.Close()
-	f, err = os.Create("engdata/items.txt")
+	f, err = os.Create("engdata/unique.txt")
 	if err != nil {
 		panic(err)
 	}
@@ -106,8 +106,8 @@ func parseItemJson(fname string) {
 		}
 	}
 	for _, u := range usons {
-		uniqs = append(uniqs, u.Name)
-		fmt.Fprintln(f, u.Name)
+		uniqs = append(uniqs, strings.ToLower(u.Text))
+		fmt.Fprintln(f, strings.ToLower(u.Text))
 	}
 	f.Close()
 	fmt.Println(uniqs)
