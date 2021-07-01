@@ -80,37 +80,50 @@ func parseItemJson(fname string) {
 	if err != nil {
 		panic(err)
 	}
-	var idata items
 	d, err := ioutil.ReadAll(f)
 	if err != nil {
 		panic("json file")
 	}
 	f.Close()
-	f, err = os.Create("engdata/unique.txt")
-	if err != nil {
-		panic(err)
-	}
+	var idata items
 	if err = json.Unmarshal(d, &idata); err != nil {
 		panic("json")
 	}
+	writeUniqItemFile(idata, "engdata/unique.txt")
+	writeMapsNameFile(idata, "engdata/maps.txt")
+}
+
+func writeUniqItemFile(d items, outfile string) {
+	i := []int{0, 1, 8}
+	writeDataFile(d, i, outfile)
+}
+
+func writeMapsNameFile(d items, outfile string) {
+	i := []int{7}
+	writeDataFile(d, i, outfile)
+}
+
+func writeDataFile(d items, e []int, fname string) {
+	f, err := os.Create(fname)
+	if err != nil {
+		panic(err)
+	}
 	var data []cat
-	data = append(data, idata.Result[0])
-	data = append(data, idata.Result[1])
-	data = append(data, idata.Result[8])
-	var usons []entry
+	for _, idx := range e {
+		data = append(data, d.Result[idx])
+	}
+	var es []entry
 	for _, c := range data {
 		for _, item := range c.Entries {
 			if item.Flags.Unique {
-				usons = append(usons, item)
+				es = append(es, item)
 			}
 		}
 	}
-	for _, u := range usons {
-		uniqs = append(uniqs, strings.ToLower(u.Text))
+	for _, u := range es {
 		fmt.Fprintln(f, strings.ToLower(u.Text))
 	}
 	f.Close()
-	fmt.Println(uniqs)
 }
 
 func init() {
