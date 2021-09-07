@@ -1,952 +1,952 @@
-ahkeli's meadow ruby ring
-ahkeli's mountain ruby ring
-ahkeli's valley ruby ring
-andvarius gold ring
-angler's plait unset ring
-araku tiki coral amulet
-arn's anguish cloth belt
-ascent from flesh chain belt
-astral projector topaz ring
-astramentis onyx amulet
-atziri's foible paua amulet
-aul's uprising onyx amulet
-auxium chain belt
-auxium crystal belt
-badge of the brotherhood turquoise amulet
-bated breath chain belt
-bear's girdle leather belt
-belt of the deceiver heavy belt
-berek's grip two-stone ring
-berek's pass two-stone ring
-berek's respite two-stone ring
-bisco's collar gold amulet
-bisco's leash heavy belt
-blackflame amethyst ring
-blackheart iron ring
-blightwell clutching talisman
-bloodboil coral ring
-bloodgrip marble amulet
-bloodgrip coral amulet
-blood of corruption amber amulet
-brinerot mark unset ring
-call of the brotherhood two-stone ring
-carnage heart onyx amulet
-chains of emancipation chain belt
-choir of the storm lapis amulet
-circle of anguish ruby ring
-circle of fear sapphire ring
-circle of guilt iron ring
-circle of nostalgia amethyst ring
-circle of regret topaz ring
-coward's chains chain belt
-coward's legacy chain belt
-cyclopean coil leather belt
-daresso's salute citrine amulet
-darkness enthroned stygian vise
-death rush amethyst ring
-demigod's bounty golden obi
-demigod's eye golden hoop
-demigod's presence gold amulet
-doedre's damning paua ring
-doryani's invitation heavy belt
-dream fragments sapphire ring
-dyadian dawn heavy belt
-emberwake ruby ring
-essence worm unset ring
-extractor mentis agate amulet
-eye of chayula onyx amulet
-eye of innocence citrine amulet
-eyes of the greatwolf greatwolf talisman
-faminebind rustic sash
-fated end paua ring
-feastbind rustic sash
-fury valve turquoise amulet
-gifts from above diamond ring
-gloomfang blue pearl amulet
-gluttony leather belt
-graven's secret cloth belt
-hallowed ground unset ring
-headhunter leather belt
-heartbound loop moonstone ring
-hinekora's sight onyx amulet
-hyperboreus leather belt
-hyrri's truth jade amulet
-icefang orbit iron ring
-immortal flesh leather belt
-impresence onyx amulet
-kaom's sign coral ring
-kaom's way coral ring
-karui charge jade amulet
-karui ward jade amulet
-kikazaru topaz ring
-leadership's price onyx amulet
-leash of oblation leather belt
-le heup of all iron ring
-lori's lantern prismatic ring
-malachai's artifice unset ring
-maligaro's cruelty turquoise amulet
-maligaro's restraint chain belt
-mark of submission unset ring
-mark of the elder steel ring
-mark of the shaper opal ring
-marylene's fallacy lapis amulet
-meginord's girdle heavy belt
-ming's heart amethyst ring
-mokou's embrace ruby ring
-mother's embrace heavy belt
-mutewind seal unset ring
-natural hierarchy rotfeather talisman
-ngamahu's sign ruby ring
-ngamahu tiki coral amulet
-night's hold black maw talisman
-olesya's delight cloth belt
-perandus blazon cloth belt
-perandus signet paua ring
-perquil's toe gold amulet
-perseverance vanguard belt
-praxis paua ring
-precursor's emblem two-stone ring
-precursor's emblem topaz ring
-precursor's emblem sapphire ring
-precursor's emblem ruby ring
-precursor's emblem prismatic ring
-presence of chayula onyx amulet
-prismweave rustic sash
-profane proxy unset ring
-putembo's meadow topaz ring
-putembo's mountain topaz ring
-putembo's valley topaz ring
-pyre sapphire ring
-pyroshock clasp leather belt
-rashkaldor's patience jade amulet
-redblade band unset ring
-replica atziri's foible paua amulet
-replica bated breath chain belt
-replica doedre's damning paua ring
-replica emberwake ruby ring
-replica headhunter leather belt
-replica hyrri's truth jade amulet
-replica karui ward jade amulet
-replica malachai's artifice unset ring
-replica prismweave rustic sash
-replica siegebreaker heavy belt
-replica soul tether cloth belt
-replica tasalio's sign sapphire ring
-replica voideye unset ring
-replica winterheart gold amulet
-retaliation charm citrine amulet
-rigwald's crest two-stone ring
-rigwald's curse wereclaw talisman
-romira's banquet diamond ring
-rotblood promise unset ring
-ryslatha's coil studded belt
-sacrificial heart paua amulet
-shaper's seed agate amulet
-shavronne's revelation moonstone ring
-sibyl's lament coral ring
-sidhebreath paua amulet
-siegebreaker heavy belt
-snakepit sapphire ring
-solstice vigil onyx amulet
-soul tether cloth belt
-soulthirst cloth belt
-star of wraeclast ruby amulet
-stone of lazhwar lapis amulet
-stormfire opal ring
-storm secret topaz ring
-string of servitude heavy belt
-sunblast cloth belt
-survivor's guilt heavy belt
-talisman of the victor jet amulet
-tasalio's sign sapphire ring
-tavukai coral amulet
-tear of purity lapis amulet
-the anvil amber amulet
-the ascetic gold amulet
-the aylardex agate amulet
-the druggery cloth belt
-the effigon gold amulet
-the ephemeral bond lapis amulet
-the felbog fang citrine amulet
-the flow untethered cloth belt
-the halcyon jade amulet
-the highwayman gold ring
-the hungry loop unset ring
-the ignomon gold amulet
-the jinxed juju citrine amulet
-the magnate studded belt
-the nomad studded belt
-the pandemonius jade amulet
-the pariah unset ring
-the primordial chain coral amulet
-the retch rustic sash
-the tactician studded belt
-the taming prismatic ring
-the torrent's reclamation cloth belt
-the warden's brand iron ring
-thief's torment prismatic ring
-timeclasp moonstone ring
-timetwist moonstone ring
-triumvirate authority unset ring
-umbilicus immortalis leather belt
-ungil's harmony turquoise amulet
-uzaza's meadow sapphire ring
-uzaza's mountain sapphire ring
-uzaza's valley sapphire ring
-valako's sign topaz ring
-valyrium moonstone ring
-venopuncture iron ring
-ventor's gamble gold ring
-victario's acuity turquoise amulet
-vivinsect unset ring
-voice of the storm lapis amulet
-voideye unset ring
-voidheart iron ring
-voll's devotion agate amulet
-warped timepiece turquoise amulet
-warrior's legacy ruby ring
-willowgift jade amulet
-winterheart gold amulet
-winterweave coral ring
-wurm's molt leather belt
-xoph's blood amber amulet
-xoph's heart amber amulet
-yoke of suffering onyx amulet
-zerphi's heart paua amulet
-abberath's hooves goathide boots
-abhorrent interrogation ambush mitts
+ahkelin niitty rubiinirengas
+ahkelin vuoren rubiinirengas
+ahkelin laakson rubiinirengas
+andvarius kultainen sormus
+kalastajan palmikko irrotettu rengas
+araku tiki koralliamuletti
+arnin tuskainen kangasvyö
+nousu lihaketjun vyöstä
+astraaliprojektorin topaasirengas
+astramentis -onyx -amuletti
+atzirin syötävä paua -amuletti
+aulin kapinan onyx -amuletti
+auxium -ketjuhihna
+auxiumkidehihna
+veljeskunnan turkoosi -amuletti
+hengitysketjun vyö
+karhun vyön nahkavyö
+harhaanjohtavan vyön vyö
+berekin kaksikivinen rengas
+berek's pass -kivirengas
+berekin kaksikivinen rengas
+biscon kaulus kultainen amuletti
+biscon talutushihna
+blackflame ametisti rengas
+musta sydämen rautarengas
+blightwell puristi talismania
+veren kiehuva korallirengas
+Bloodgrip marmorinen amuletti
+veripitoinen koralli -amuletti
+korruption verta keltainen amuletti
+brinerot -merkki poistanut renkaan
+veljeskunnan kaksikivinen rengas
+verilöylyn sydän onyx -amuletti
+vapautusketjun ketjut
+myrskyn lapis -amuletin kuoro
+ahdistuksen rubiinirenkaan ympyrä
+pelon ympyrä safiirirengas
+ympyrä syyllisyys rauta rengas
+ympyrä nostalgia ametisti rengas
+ympyrä katua topaasi rengas
+pelkurin ketjut ketjun vyö
+pelkurin perintöketjun vyö
+syklopean kelanahkavyö
+daresso tervehtii sitriini -amuletti
+pimeys valloitti stygian -ruuvipuristimen
+kuoleman rush ametisti rengas
+puolijumalan palkkio kultainen obi
+puolijumalan silmä kultainen vanne
+puolijumalan läsnäolo kulta -amuletti
+doedren kirottu paua -rengas
+doryanin kutsu raskas vyö
+unelmapalaset safiirirengas
+dyadian dawn raskas vyö
+Emberwake rubiinirengas
+olemus mato asetettu rengas
+uutto mentis -akaatti -amuletti
+Chayula -onyx -amuletti
+viattomuuden silmä sitriini -amuletti
+isosusi suursusi -talismanin silmät
+faminebind maalaismainen puite
+kohtalokas paua -rengas
+feastbind maalaismainen puite
+raivoventtiili turkoosi amuletti
+lahjoja timanttisormuksen yläpuolelta
+synkkähelmi sininen helmi -amuletti
+paksu nahkainen vyö
+Gravenin salainen kangasvyö
+pyhitetty maadoittamaton rengas
+headhunter -nahkavyö
+sydänsilmukka kuukivirengas
+Hinekoran näön onyx -amuletti
+hyperboreus -nahkavyö
+hyrrin totuuden jade -amuletti
+icefang kiertoradan rautarengas
+kuolematon lihanahkainen vyö
+impresenssi onyx -amuletti
+kaomin merkki korallirengas
+kaom's way korallirengas
+karui lataa jade -amuletti
+karui ward jade amuletti
+kikazaru topaasi rengas
+johtajan hinta onyx -amuletti
+nahkahihnan hihna
+le heup kaikki rauta rengas
+lorin lyhdyn prismarengas
+malachain keinotekoinen rengas
+maligaron julmuuden turkoosi amuletti
+maligaron turvaketjun vyö
+lähetyksen merkki poistettu renkaasta
+vanhemman teräsrenkaan merkki
+muotoilijan opaalirenkaan merkki
+marylenen harhaanjohtava lapis -amuletti
+Meginordin vyön raskas vyö
+Mingin sydämen ametistirengas
+Mukoun syleilevä rubiinirengas
+äidin sylissä raskas vyö
+mykistyksen tiiviste irrotettu rengas
+luonnollinen hierarkia höyhen talismani
+ngamahun merkki rubiinirengas
+ngamahu tiki koralliamuletti
+yön pito musta maw talisman
+olesyan iloinen kangasvyö
+perandus blazon kangasvyö
+perandus signet paua -rengas
+perquilin varpaiden kulta -amuletti
+pitkäjänteisyys eturintavyö
+praxis paua -rengas
+edeltäjän tunnus kaksikivinen rengas
+edeltäjän tunnus topaasirengas
+edeltäjän tunnus safiirirengas
+edeltäjän tunnus rubiinirengas
+prekursorin tunnus prismarengas
+chayula -onyx -amuletti
+prismaweave maalaismainen puite
+profaani välityspalvelimen rengas
+putembon niityntopasrengas
+putembon vuortopasirengas
+putembon laakson topaasirengas
+pyre safiiri rengas
+pyroshock -lukko nahkahihna
+rashkaldorin kärsivällisyys jade -amuletti
+redblade bändi irrotettu rengas
+replica atzirin syötävä paua -amuletti
+kopio hengitysketjun vyö
+replica doedren tuomittu paua -rengas
+replica emberwake rubiinirengas
+replica headhunter nahkavyö
+replica hyrrin totuus jade -amuletti
+replica karui ward jade amuletti
+replica malachain keinotekoinen sormus
+replica prismweave maalaismainen puite
+kopio Siegebreaker raskas vyö
+replica sielu kiinnitys kangas vyö
+replica tasalion merkki safiirirengas
+replica voideye unset rengas
+replica winterheart kulta amuletti
+kosto charmia sitriini amuletti
+rigwaldin harjanteen kaksikivinen sormus
+rigwaldin kirous oli kynnetalismani
+romiran juhlallinen timanttisormus
+rotblood lupaamaton rengas
+ryslathan kelan nastoitettu vyö
+uhrautuva sydän paua -amuletti
+muotoilijan siemen akaatti -amuletti
+shavronnen ilmestys kuukivirengas
+sibylin valituskorallirengas
+sidhebreath paua amuletti
+piiritysmurtajan raskas vyö
+snakepit safiiri rengas
+päivänseisausvalvonnan onyx -amuletti
+sieluhihnan kangasvyö
+Sulthirst -kangasvyö
+käärimisen rubiiniamuletin tähti
+lazhwar lapis -amuletin kivi
+myrskytulen opaali rengas
+myrskyn salainen topaasirengas
+orjuuden merkkijono raskas vyö
+aurinkosuihkukangasvyö
+selviytyjän syyllisyyden raskas vyö
+Victor jet amuletin talismani
+tasalion merkki safiirirengas
+tavukai -koralliamuletti
+puhtauden kyynel lapis -amuletti
+alasin keltainen amuletti
+askeettinen kulta -amuletti
+aylardex -akaatti -amuletti
+lääketehtaan kangasvyö
+effigon -kulta -amuletti
+lyhytaikainen sidos lapis -amuletti
+felbog hammas sitriini amuletti
+irrotettu kangashihna
+halcyon -jade -amuletti
+moottoritien kultarengas
+nälkäinen silmukka irrotettu rengas
+ignomonin kulta -amuletti
+jinxed juju sitriini -amuletti
+magneettikuvioitu vyö
+paimentolaisnauhainen vyö
+pandemonius -jade -amuletti
+pariah irrotettu rengas
+alkuketjun koralliamuletti
+retch maalaismainen puite
+taktiikan nastoitettu vyö
+kesyttävä prismarengas
+torrentin regenerointikangasvyö
+isännöitsijän rautarengas
+varkaan kärsimyksen prismarengas
+aikakiinnitys kuukivirengas
+timetwist kuukivirengas
+triumviraatti auktoriteetti poistettu rengas
+umbilicus immortalis nahkavyö
+ungilin harmonian turkoosi amuletti
+uzazan niittysafiirirengas
+uzazan vuorisafiirirengas
+uzazan laakson safiirirengas
+valakon merkki topaasirengas
+valyrium kuukivirengas
+suonensisäinen rautarengas
+ventorin uhkapeli kultainen sormus
+Victorian terävyys turkoosi amuletti
+vivinsektin irrotettu rengas
+myrskyn ääni lapis -amuletti
+voideye unset rengas
+tyhjän sydämen rautarengas
+vollin omistautumisen akaatti -amuletti
+vääntynyt kello turkoosi amuletti
+soturin perintö rubiinisormus
+paju lahja jade amuletti
+talvisydämen kulta -amuletti
+talvinen korallirengas
+wurmin molt -nahkavyö
+xophin veren keltainen amuletti
+xophin sydämen keltainen amuletti
+kärsivän onyx -amuletti
+zerphin sydämen paua -amuletti
+abberathin kaviot goathide -saappaat
+vastenmieliset kuulusteluun kohdistuvat rukkaset
 abyssus ezomyte burgonet
-aegis aurora champion kite shield
-ahn's contempt praetor crown
-ahn's heritage colossal tower shield
-alberon's warpath soldier boots
-algor mortis carnal mitts
-allelopathy sorcerer gloves
-alpha's howl sinner tricorne
-ambu's charge crusader chainmail
-ancient skull bone helmet
-apep's slumber vaal spirit shield
-apep's slumber ancient spirit shield
-apep's supremacy vaal spirit shield
-architect's hand strapped mitts
-architect's hand ambush mitts
-asenath's chant iron circlet
-asenath's gentle touch silk gloves
-asenath's mark iron circlet
-ashrend buckskin tunic
-asphyxia's wrath two-point arrow quiver
-assailum sinner tricorne
-atziri's acuity vaal gauntlets
-atziri's mirror golden buckler
-atziri's reflection golden buckler
-atziri's splendour sacrificial garb
-atziri's step slink boots
-aukuna's will clasped mitts
-aurseize steelscale gauntlets
-beacon of madness two-toned boots
-belly of the beast full wyrmscale
-bitterbind point titanium spirit shield
-blackgleam cured quiver
-blackgleam fire arrow quiver
-black sun crest lacquered helmet
-blasphemer's grasp assassin's mitts
-bloodbond bone armour
-blunderbore astral plate
-bones of ullr silk slippers
-bramblejack plate vest
-breathstealer hydrascale gauntlets
-brinerot flag tarnished spirit shield
-brinerot whalers trapper boots
-briskwrap strapped leather
-broadstroke heavy quiver
-broken faith archon kite shield
-bronn's lithe cutthroat's garb
-bubonic trail murder boots
-carcass jack varnished coat
-chains of command saintly chainmail
-chalice of horrors war buckler
-chernobog's pillar ebony tower shield
-cherrubim's maleficence triumphant lamellar
-chitus' apex necromancer circlet
-cloak of defiance lacquered garb
-cloak of flame scholar's robe
-cloak of tawm'r isley savant's robe
-command of the pit riveted gloves
-corpsewalker carnal boots
-cospri's will assassin's garb
-cowl of the ceraunophile solaris circlet
-cowl of the cryophile silken hood
-cowl of the thermophile ezomyte burgonet
-cragfall serrated arrow quiver
-craghead serrated arrow quiver
-craiceann's carapace golden plate
-craiceann's chitin magistrate crown
-craiceann's pincers titan gauntlets
-craiceann's tracks goliath greaves
-crest of desire fluted bascinet
-crest of perandus pine buckler
-crown of eyes hubris circlet
-crown of the inward eye prophet crown
-crown of the pale king regicide mask
-crown of the tyrant magistrate crown
-crown of thorns vine circlet
-crystal vault latticed ringmail
-curtain call plague mask
-dance of the offered shackled boots
-dance of the offered carnal boots
-daresso's courage baroque round shield
-daresso's defiance full dragonscale
-darkray vectors dragonscale boots
-death's door crusader boots
-death's oath astral plate
-deerstalker deerskin boots
-deidbell gilded sallet
-deidbellow gilded sallet
-demigod's beacon golden flame
-demigod's dominance golden mantle
-demigod's immortality golden visage
-demigod's stride golden caligae
-demigod's touch golden bracers
-demigod's triumph golden wreath
-demon stitcher satin gloves
-dendrobate sentinel jacket
-deshret's vise steel gauntlets
-devoto's devotion nightmare bascinet
-dialla's malefaction sage's robe
-doedre's malevolence velvet gloves
-doedre's scorn lunaris circlet
-doedre's skin widowsilk robe
-doedre's tenure velvet gloves
-doppelgänger guise sadist garb
-doryani's delusion slink boots
-doryani's delusion sorcerer boots
-doryani's delusion titan greaves
-doryani's fist vaal gauntlets
-doryani's prototype saint's hauberk
-drillneck penetrating arrow quiver
-duskblight leatherscale boots
-duskblight ironscale boots
-dusktoe leatherscale boots
-dusktoe ironscale boots
-eber's unification hubris circlet
-emperor's vigilance steel kite shield
-empire's grasp goliath gauntlets
-esh's mirror thorium spirit shield
-esh's visage vaal spirit shield
-expedition's end sentinel jacket
-eye of malice callous mask
-ezomyte hold iron hat
-ezomyte peak iron hat
-facebreaker strapped mitts
-fairgraves' tricorne tricorne
-farrul's bite harlequin mask
-farrul's chase slink boots
-farrul's fur triumphant lamellar
-farrul's pounce hydrascale gauntlets
-fenumus' shroud widowsilk robe
-fenumus' spinnerets assassin's boots
-fenumus' toxins necromancer circlet
-fenumus' weave carnal mitts
-flamesight solaris circlet
-flesh and spirit ironscale gauntlets
-fleshcrafter necromancer silks
-font of thunder mirrored spiked shield
-forbidden shako great crown
-fox's fortune wild leather
-foxshade wild leather
-fractal thoughts vaal mask
-frostferno leather hood
-galesight solaris circlet
-gang's momentum legion boots
-garb of the ephemeral savant's robe
-garukhan's flight stealth boots
-geofri's crest great crown
-geofri's legacy great crown
-geofri's sanctuary elegant ringmail
-giantsbane bronze gauntlets
-glimpse of chaos vaal mask
-glitterdisc burnished spiked shield
-goldrim leather cap
-goldwyrm nubuck boots
-gorgon's gaze regicide mask
-great old one's tentacles eelskin gloves
-great old one's ward corrugated buckler
-greed's embrace golden plate
-greedtrap velvet slippers
-grip of the council arcanist gloves
-gruthkul's pelt wyrmscale doublet
-haemophilia serpentscale gauntlets
-hale negator mind cage
-hand of the fervent zealot gloves
-hands of the high templar crusader gloves
-hateforge ancient gauntlets
-heatshiver leather hood
-hellbringer conjurer gloves
-heretic's veil deicide mask
-honourhome soldier helmet
-hrimburn goathide gloves
-hrimnor's resolve samnite helmet
-hrimsorrow goathide gloves
-hyrri's bite sharktooth arrow quiver
-hyrri's demise sharktooth arrow quiver
-hyrri's ire zodiac leather
-icetomb latticed ringmail
-incandescent heart saintly chainmail
-indigon hubris circlet
-infernal mantle occultist's vestment
-infernal mantle widowsilk robe
-inpulsa's broken heart sadist garb
-invictus solaris archon kite shield
-inya's epiphany arcanist slippers
-iron heart crusader plate
-jaws of agony supreme spiked shield
-kalisa's grace samite gloves
-kaltenhalt painted buckler
-kaltensoul painted buckler
-kaom's heart glorious plate
-kaom's roots titan greaves
-kingsguard conquest chainmail
-kintsugi exquisite leather
-kitava's thirst zealot helmet
-kongming's stratagem ivory spirit shield
-leer cast festival mask
-legacy of fury wyrmscale boots
-leper's alms mirrored spiked shield
-lightbane raiment ornate ringmail
-lightning coil desert brigandine
-light of lunaris jingling spirit shield
-lightpoacher great crown
-lioneye's paws bronzescale boots
-lioneye's remorse pinnacle tower shield
-lioneye's vision crusader plate
-lochtonial caress iron gauntlets
-loreweave elegant ringmail
-lycosidae rawhide tower shield
-machina mitts murder mitts
-magna eclipsis pinnacle tower shield
-mahuxotl's machination steel kite shield
-malachai's awakening iron mask
-malachai's loop harmonic spirit shield
-malachai's mark murder mitts
-malachai's simula iron mask
-malachai's vision praetor crown
-maligaro's lens compound spiked shield
-maligaro's virtuosity deerskin gloves
-maloney's mechanism ornate quiver
-maloney's nightfall blunt arrow quiver
-manastorm fossilised spirit shield
-march of the legion legion boots
-mark of the red covenant tribal circlet
-martyr's crown vine circlet
-mask of the spirit drinker crusader helmet
-mask of the spirit drinker magistrate crown
-mask of the stitched demon magistrate crown
-mask of the tribunal magistrate crown
-matua tupuna tarnished spirit shield
-maw of conquest steel circlet
-maw of mischief bone helmet
-meginord's vise steel gauntlets
-memory vault praetor crown
-mercenary's lot slink gloves
-mind of the council harlequin mask
-mindspiral aventail helmet
-mistwall lacquered buckler
-mutewind pennant enameled buckler
-mutewind whispersteps serpentscale boots
-nomic's storm strapped boots
-null and void legion gloves
-obscurantis lion pelt
-offering to the serpent legion gloves
-omeyocan carnal boots
-ondar's clasp wrapped mitts
-victario's flight goathide boots
-oskarm nubuck gloves
-painseeker shagreen gloves
-perepiteia ezomyte spiked shield
-perfidy glorious plate
-plume of pursuit bone circlet
-prism guardian archon kite shield
-qotra's regulator sovereign spiked shield
-queen of the forest destiny leather
-rainbowstride conjurer boots
-ralakesh's impatience riveted boots
-rathpith globe titanium spirit shield
-rat's nest ursine pelt
-rearguard broadhead arrow quiver
-reckless defence lacquered garb
-redblade banner painted tower shield
-redblade tramplers ancient greaves
-remnant of empires goathide buckler
-repentance crusader gloves
+aegis aurora champion leijakilpi
+ahnin halveksiva praetor -kruunu
+ahnin perintö, valtava tornikilpi
+alberonin sota -sotilaan saappaat
+algor mortis -lihakäsineet
+allelopatian noidan käsineet
+alfa huutaa syntinen tricorne
+ambu: n syyttäjä ristiretkeläinen ketjuposti
+vanha kallo luun kypärä
+apepin unen vaal spirit kilpi
+apepin uni vanhan hengen kilpi
+apepin ylivalta vaal spirit kilpi
+arkkitehdin käsin sidotut rukkaset
+arkkitehdin käden väijytys
+asenathin laulurauta
+asenathin hellävaraiset silkkikäsineet
+asenathin rautapiiri
+ashrend buckskin tunika
+tukehtumisen kaksivaiheinen nuoli värisee
+assailum syntinen tricorne
+atzirin terävyys vaal -haalarit
+atzirin peilin kultainen solki
+atzirin heijastus kultainen solki
+atzirin loisto uhrausvaate
+atzirin step slink saappaat
+aukunan tahto kiinnitti rukkaset
+aurseize -terässuojat
+hulluuden majakka kaksiväriset saappaat
+pedon vatsa täynnä
+bitterbind point titaaninen spirit kilpi
+blackgleam -kovettuva vapina
+blackgleam palo nuoli väristä
+musta aurinkokuoren lakattu kypärä
+jumalanpilkkaan tarttuva salamurhaajan rukkaset
+verisukulainen luuhaarniska
+blunderbore astraalilevy
+ullr -silkkitossujen luut
+bramblejack -levyliivi
+hengityssuojaimen hydrascale -hansikkaat
+brinerot -lippu tahrattu henkikilpi
+brinerot valaanpyytäjät trapper saappaat
+rintaliivit nahkaa
+laajaiskuinen raskas värähtely
+rikkoutunut usko Archon leijakilpi
+bronnin notkea leikkausasun vaate
+bubonic trail murha saappaat
+ruhojen pistokkeella lakattu takki
+komentoketjut pyhästi ketjuposti
+kauhujen malja sotakuljettaja
+tšernobogin pylvään eebenpuun tornisuoja
+cherrubimin pahantahtoinen voittoisa lamelli
+chituksen kärki nekromanssirengas
+uhmaava viitta lakattu vaate
+liekin tutkijan viitta
+tawm'r isley savantin viitta
+komento kuoppaan niitattuja käsineitä
+corpsewalker -lihalliset saappaat
+cosprin testamentin salamurhaajan vaate
+ceraunophile solaris -ympyrän suojus
+kryofiilisen silkkisen hupun suojus
+termofiilisen ezomyte burgonetin suojus
+cragfall hammastettu nuoli
+craghead sahalaitainen nuoli
+craiceannin carapace -kultainen lautanen
+craiceannin kitiinituomarin kruunu
+craiceannin pihdit titan -hansikkaat
+craiceannin jäljet ​​goliath greaves
+halun harja aaltoileva bascinet
+harjanne mänty solki
+silmän kruunu hubris -ympyrä
+sisäisen silmän profeetan kruunu
+vaalean kuninkaan hallitsijan naamion kruunu
+tyrannin tuomarin kruunu
+orjantappurakruunu viiniköynnöksen ympyrä
+kristalliholvi ristikkorengas
+verho kutsu rutto naamio
+tarjottujen kahleiden saappaiden tanssi
+tarjottujen lihallisten saappaiden tanssi
+daresso rohkeus barokki pyöreä kilpi
+daresso vastustaa täysin lohikäärmettä
+darkray vektorit lohikäärmemäinen saappaat
+kuoleman oven ristiretkeläisten saappaat
+kuoleman valavan astraalilevy
+deerstalker hirvisaappaat
+deidbell kullattu salletti
+deidbellow kullattu salletti
+puolijumalan majakka kultainen liekki
+puolijumalan hallitseva kultainen vaippa
+puolijumalan kuolemattomuus kultainen näky
+puolijumalan kultainen caligae
+puolijumalan kosketus kultaiset kiinnikkeet
+puolijumalan voitto kultainen seppele
+demonitikkaus satiinikäsineet
+dendrobate sentinel takki
+deshretin ruuvipuristimet
+devoton antaumuksen painajainen bascinet
+diallan väärinkäytöksen salvia
+doedren pahantahtoiset samettikäsineet
+doedren halveksittu lunarisympyrä
+doedren ihon leskisilkkipuku
+doedren tenure samettihanskat
+doppelgänger -naamiaisasu
+doryanin harhaluistimet
+doryanin harhaluuloiset velho saappaat
+doryanin harhaluulo titan greaves
+doryanin nyrkki vaal haalarit
+doryanin prototyyppi pyhimyksen hauberk
+porakaulan tunkeutuva nuoli
+Duskblight -nahkasaappaat
+raikkaat saappaat
+hämärät nahkasaappaat
+hämärät varvasaappaat
+eberin yhdistymiskeskus
+keisarin valppaus teräs leija kilpi
+imperiumin ote goliath -hansikkaat
+eshin peilin toriumin henkisuojus
+esh's visage vaal spirit kilpi
+retkikunnan lopputurvatakki
+pahan silmän kaltainen naamio
+ezomyte hold rautahattu
+ezomyte huippu rautahattu
+kasvojenmurtajanauhaiset rukkaset
+fairgravesin tricorne tricorne
+farrulin purema harlekiininaamio
+farrul's chase slink saappaat
+farrulin turkis voittoisa lamelli
+farrulin hyökkäävät hydrascale -käsineet
+fenumuksen käärinliinan leskihuivi
+fenumuksen spinnerets salamurhaajan saappaat
+fenumuksen toksiinit, nekromantaalinen ympyrä
+fenumuksen kudotut lihalliset rukkaset
+liekinvalo solaris ympyrä
+lihaa ja henkeä irralliset haalarit
+lihanmurtaja nekromanssin silkit
+fontti thunder peilattu piikki kilpi
+kielletty shako suuri kruunu
+ketun omaisuus villinahka
+foxshade villi nahka
+fraktaali ajatuksia vaal naamio
+frostferno -huppu
+galesight solaris ympyrä
+jengin vauhti legioona saappaat
+ohimenevän savanttivaatteen puku
+garukhanin lennon varkain saappaat
+geofrin harjan suuri kruunu
+geofrin perintö suuri kruunu
+geofrin pyhäkkö tyylikäs soittoviesti
+Giantsbanen pronssihanskat
+välähdys kaaoksen vaal -naamiosta
+glitterdisc kiillotettu piikkisuojus
+goldrim -nahkatulppa
+goldwyrm -nupukkisaappaat
+gorgonin katseen tappava naamio
+suuren vanhan lonkerot ankeriannahkakäsineet
+suuren vanhan osaston aallotettu solki
+ahneuden syleily kultainen lautanen
+greedtrap sametti tossut
+neuvoston arcanist -käsineiden ote
+gruthkul's pelt wyrmscale duplet
+hemofilia -käärmeen asteikot
+hale negator mielenhäkki
+innokkaiden kiivaiden käsineiden käsi
+korkean temppelin ristiretkeläisten käsineet
+hateforge muinaiset hansikkaat
+lämmittimen nahkahuppu
+hellbringer conjurer käsineet
+harhaoppisen verhon tappajan naamio
+honourhome sotilaan kypärä
+hrimburn -vuohenhanskat
+hrimnorin päättäväinen samniittikypärä
+hrimsorrow -vuohenhanskat
+hyrrin purema hainhampaan nuoli
+hyrrin kuolemanhainhammasnuolan nuoli
+hyrrin raikas eläinradan nahka
+icetomb ristikoitu ringmail
+hehkuva sydän pyhästi ketjuposti
+indigon hubris ympyrä
+helvetin vaipan okkultistin liivi
+helvetillinen vaippa leski
+inpulsan särkyneen sydämen sadistinen puku
+invictus solaris archon leijakilpi
+inyan loppiaisen arcanistitossut
+rautainen sydämen ristiretkilevy
+tuskan leuat ylin piikki kilpi
+kalisa's grace samite käsineet
+kaltenhalt maalattu solki
+kaltensoul maalattu solki
+Kaomin sydämen loistava levy
+kaomin juuret titan greaves
+kuninkaallinen valloitusketjun posti
+kintsugi hieno nahka
+kitavan janon kiihkeä kypärä
+kongmingin stratagem norsunluun henkisuojus
+leer cast -festivaalin naamio
+Fury Wyrmscale -saappaiden perintö
+spitaalisen almuja peilattu piikki kilpi
+lightbane -asu koristeellinen ringmail
+salama kela autiomaa brigandine
+valo lunaris jingling hengen kilpi
+valosaarras suuri kruunu
+lioneye's paws pronssi -mittaiset saappaat
+lioneyen katumuksen huippu torni kilpi
+lioneye's vision ristiretkilevy
+lochtoniaaliset hyväilyraudat
+loreweave tyylikäs sähköpostiviesti
+lycosidae raa'an nahan tornisuoja
+machina rukkaset murhakäsineet
+magna eclipsis pinnacle tower kilpi
+mahuxotlin koneistusteräksinen leijakilpi
+malachain heräävä rauta -naamio
+malachain silmukan harmoninen henkisuojus
+malachain merkin murhakäsineet
+malachain simulaarinen raamamaski
+malachain visio praetor kruunu
+maligaron linssiseos piikkisuojus
+maligaron virtuoosinen peurannahkakäsineet
+maloneyn mekanismin koristeellinen vapina
+Maloneyn illan hämärtävä nuoli värisee
+manastorm fossiilinen henkikilpi
+legioonan legioonan saappaiden marssi
+punaisen liiton heimoympyrän merkki
+marttyyrikruunun viiniköynnöksen ympyrä
+väkevien alkoholijuomien ristiretkikypärän naamio
+alkoholijuomatuomarin kruunun naamio
+ommeltujen demonituomarikruunun naamio
+tuomioistuimen tuomarin kruunun naamio
+matua tupuna tahrattu spirit kilpi
+valloittavan teräksen ympyrä
+pahuuden luun kypärä
+meginordin ruuvipuristimet
+muisti holvi praetor kruunu
+palkkasoturin paljon slink käsineet
+mielessä neuvoston harlekiinimaski
+mindspiral aventail kypärä
+mistwall lakattu solki
+mutewind viiri emaloitu solki
+mutewind whispersteps käärmeasteikot
+nomicin myrskyhihnat
+tyhjät legion -käsineet
+obscurantis leijonannahka
+käärmeen legioonalle käsineiden tarjoaminen
+omeyocan -lihalliset saappaat
+ondarin lukko kääritty rukkaset
+victorion lenkkitossut
+oskarm nubukkäsineet
+kipua etsivät shagreen -käsineet
+perepiteia ezomyte piikki kilpi
+loistava lautanen
+jälki luun ympyrä
+prisma vartija Archon leijakilpi
+qotran säätimen suvereeni piikkisuojus
+metsän kohtalon naisen kuningatar
+sateenkaaren loitsukengät
+ralakeshin kärsimättömyys niittaisi saappaat
+rathpith maapallo titaani spirit kilpi
+rotan pesän ursiininauha
+takaosan leveäpääinen nuoli
+holtiton puolustus lakattu vaate
+redblade -lippu maalattu tornikilpi
+redblade tallaavat muinaiset rasvat
+jäänteitä keisarikuvista
+parannuksen ristiretkeläisten käsineet
 replica abyssus ezomyte burgonet
-replica alberon's warpath soldier boots
-replica allelopathy sorcerer gloves
-replica alpha's howl sinner tricorne
-replica ambu's charge crusader chainmail
-replica atziri's acuity vaal gauntlets
-replica bones of ullr silk slippers
-replica eternity shroud blood raiment
-replica farrul's fur triumphant lamellar
-replica forbidden shako great crown
-replica grip of the council arcanist gloves
-replica inya's epiphany arcanist slippers
-replica kalisa's grace samite gloves
-replica kaom's heart glorious plate
-replica leer cast festival mask
-replica lioneye's paws bronzescale boots
-replica loreweave elegant ringmail
-replica maloney's mechanism ornate quiver
-replica mistwall lacquered buckler
-replica perfect form zodiac leather
-replica red trail titan greaves
-replica restless ward carnal armour
-replica shroud of the lightless carnal armour
-replica soul strike spike-point arrow quiver
-replica stampede assassin's boots
-replica three-step assault shagreen boots
-replica tukohama's fortress ebony tower shield
-replica veil of the night great helmet
-replica victario's charity laminated kite shield
-replica voidwalker murder boots
-replica volkuur's guidance zealot gloves
-rigwald's quills two-point arrow quiver
-rime gaze mind cage
-rise of the phoenix mosaic kite shield
-rotting legion loricated ringmail
-sadima's touch wool gloves
-saemus' gift spike-point arrow quiver
-saffell's frame branded kite shield
-saqawal's flock silken hood
-saqawal's nest blood raiment
-saqawal's talons hydrascale boots
-saqawal's winds soldier gloves
-scold's bridle mind cage
-scorpion's call broadhead arrow quiver
-sentari's answer brass spirit shield
-seven-league step rawhide boots
-shackles of the wretched chain gloves
-shadows and dust clasped mitts
-shadowstitch sacrificial garb
-shaper's touch crusader gloves
-shattershard crimson round shield
-shavronne's gambit scholar boots
-shavronne's pace scholar boots
-shavronne's wrappings occultist's vestment
-shroud of the lightless carnal armour
-sin trek stealth boots
-skin of the lords simple robe
-skin of the loyal simple robe
-skirmish two-point arrow quiver
-skullhead secutor helm
-skyforth sorcerer boots
-slavedriver's hand ambush mitts
-slitherpinch bronzescale gauntlets
-slivers of providence serrated arrow quiver
-snakebite assassin's mitts
-solaris lorica copper plate
-soul mantle spidersilk robe
-soul strike spike-point arrow quiver
-southbound soldier gloves
-speaker's wreath prophet crown
+replica alberonin sota -sotilaan saappaat
+replica allelopathy noita käsineet
+replica alfa huutaa syntinen tricorne
+replica ambu: n maksu ristiretkeläisen ketjusähköposti
+replica atzirin terävyys vaal haalarit
+ullr -silkkitossujen jäljennökset
+replica ikuisuus verho verho
+replica farrulin turkis voittoisa lamelli
+kopio kielletty shako suuri kruunu
+replica pito neuvoston arcanist käsineet
+replica Inyan loppiainen arcanistitossut
+replica kalisa's grace samite käsineet
+replica kaomin sydämen loistava levy
+replica leer cast festivaalin naamio
+replica lioneye's tassut pronssiasteikot
+replica loreweave tyylikäs ringmail
+replica maloney mekanismi koristeellinen vapina
+replica mistwall lakattu solki
+replica täydellinen muoto horoskooppinahka
+replica punainen trail titan greaves
+replica levoton seurakunnan lihallinen haarniska
+kopio valottomasta lihallisesta haarniskasta
+replica soul strike piikkipisteen nuoli
+replica stampede salamurhaajan saappaat
+replica kolmivaiheinen hyökkäys shagreen saappaat
+kopio tukohaman linnoituksen eebenpuun tornisuoja
+replica huntu yön suuri kypärä
+replica victorian hyväntekeväisyys laminoitu leija kilpi
+replica voidwalker murha saappaat
+replica volkuur opas zealot käsineet
+rigwald's quills kaksipisteinen nuoli
+rime gaze mielenhäkki
+Phoenix -mosaiikkisarjan nousu
+mätää legioona loricated ringmail
+sadiman kosketusvillakäsineet
+saemuksen lahjapiikkikohdan nuoli
+saffellin runko -merkkinen leijakilpi
+saqawalin parvi silkkinen huppu
+saqawalin pesän verivaatteet
+saqawalin kynnet hydrascale -saappaat
+saqawalin tuulen sotilashanskat
+scoldin suitset mielenhäkki
+skorpionin kutsu leveäpääinen nuoli värisee
+sentarin vastaus messinkinen henkisuojus
+seitsemän liigan raakanahkaiset saappaat
+kurjen ketjuhansikkaiden kahleet
+varjoja ja pölyä sitovia rukkasia
+varjontit uhrauspuku
+muotoilijan kosketusristin hansikkaat
+shattershard karmiininpunainen pyöreä kilpi
+shavronnen gambit -tutkijakengät
+shavronnen tahtiopettaja saappaat
+shavronnen kääreet okkultistin liivi
+kevyen lihallisen haarniskan verho
+sin trek varkain saappaat
+herrojen iho yksinkertainen viitta
+uskollisen yksinkertaisen viitan iho
+taistelu kaksipisteinen nuoli
+skullhead secutor ruori
+skyforth velho saappaat
+orjaohjaimen käden väijytyshanskat
+slitherpinch pronssi -asteikot
+palaset providence sahalaitainen nuoli
+käärmeen pureman salamurhaajan rukkaset
+solaris lorica kuparilevy
+sielunvaipan hämähäkkisilkkipuku
+sielun isku piikkipisteen nuoli
+eteläsuuntaiset sotilaskäsineet
+puhujan seppeleen profeetan kruunu
 sporeguard saint's hauberk
-springleaf plank kite shield
-starkonja's head silken hood
-steelworm broadhead arrow quiver
-steppan eard sorcerer boots
-stormcharger plated greaves
-storm's gift assassin's mitts
-sundance clasped boots
-sunspite clasped boots
-surgebinders dragonscale gauntlets
-tabula rasa simple robe
-temptation step shagreen boots
-the admiral varnished coat
-the anticipation ezomyte tower shield
-the baron close helmet
-the beast fur shawl vaal regalia
-the blood dance sharkskin boots
-the brass dome gladiator plate
-the brine crown prophet crown
-the bringer of rain nightmare bascinet
-the broken crown prophet crown
-the coming calamity destroyer regalia
-the covenant spidersilk robe
-the deep one's hide studded round shield
-the devouring diadem necromancer circlet
-the embalmer carnal mitts
-the eternal apple chiming spirit shield
-the eternity shroud blood raiment
-the fledgling lacquered helmet
-the formless flame siege helmet
-the formless inferno royal burgonet
-the fracturing spinner blunt arrow quiver
-the ghastly theatre teak round shield
-the gull raven mask
-the immortal will archon kite shield
-the infinite pursuit goliath greaves
-the iron fortress crusader plate
-the ivory tower saint's hauberk
-the oak plank kite shield
-the peregrine visored sallet
-the perfect form zodiac leather
-the queen's hunger vaal regalia
-the rat cage sharkskin tunic
-the red trail titan greaves
-the restless ward carnal armour
-the scales of justice chiming spirit shield
-the shattered divinity blunt arrow quiver
-the signal fire cured quiver
-the signal fire fire arrow quiver
-the snowblind grace coronal leather
-the stampede assassin's boots
-the surrender ezomyte tower shield
-the tempest's binding callous mask
-the tempest's liberation callous mask
-the three dragons golden mask
-the unshattered will archon kite shield
-the vertex vaal mask
-thirst for horrors war buckler
-thousand ribbons simple robe
-thousand teeth temu vaal buckler
-three-step assault shagreen boots
-thunderfist murder mitts
-thundersight solaris circlet
-tinkerskin sadist garb
-titucius' span reinforced tower shield
-titucus span reinforced tower shield
-tombfist steelscale gauntlets
-torchoak step antique greaves
-triad grip mesh gloves
-trolltimber spire cedar tower shield
-tukohama's fortress ebony tower shield
-unyielding flame archon kite shield
-vaal caress bronzescale gauntlets
-veil of the night great helmet
-veruso's battering rams titan gauntlets
-victario's charity laminated kite shield
-victario's influence lacquered garb
-viper's scales full scale armour
-viridi's veil praetor crown
-vis mortis necromancer silks
-vixen's entrapment embroidered gloves
-vix lunaris cardinal round shield
-voidbringer conjurer gloves
-voidfletcher penetrating arrow quiver
-voidwalker murder boots
-volkuur's guidance zealot gloves
-voll's protector holy chainmail
-voll's vision praetor crown
-wake of destruction mesh boots
-wall of brambles plate vest
-wanderlust wool shoes
-whakatutuki o matua tarnished spirit shield
-wheel of the stormsail rotted round shield
-wildwrap strapped leather
-willclash golden mask
-windscream reinforced greaves
-windshriek reinforced greaves
-winds of change ancient gauntlets
-wondertrap velvet slippers
-worldcarver dragonscale gauntlets
-wraithlord bone circlet
-wreath of phrecia iron circlet
-wyrmsign wyrmscale gauntlets
-ylfeban's trickery hubris circlet
-yriel's fostering exquisite leather
-zahndethus' cassock sage's robe
-zeel's amplifier polished spiked shield
-abberath's horn goat's horn
-actum butcher axe
-advancing fortress gut ripper
-agnerod imperial staff
-agnerod east imperial staff
-agnerod north imperial staff
-agnerod south imperial staff
-agnerod west imperial staff
-ahn's might midnight blade
-al dhih timeworn claw
-allure vaal claw
-amplification rod spiraled wand
-apep's rage opal wand
-arakaali's fang fiend dagger
-arborix assassin bow
-ashcaller quartz wand
-ashes of the sun driftwood club
-atziri's disfavour vaal axe
-atziri's rule judgement staff
-augyre void sceptre
-aurumvorax basket rapier
-axiom perpetuum bronze sceptre
-balefire opal sceptre
-beltimber blade eternal sword
-bino's kitchen knife slaughter knife
-bitterdream shadow sceptre
-blood of summer rusted sword
-bloodplay stiletto
-bloodseeker hellion's paw
-brain rattler meatgrinder
-breath of the council carnal sceptre
-brightbeak war hammer
-brutus' lead sprinkler ritual sceptre
+Springleaf lankku leija kilpi
+starkonjan pään silkkinen huppu
+teräsmato, leveäpäinen nuoli
+steppan eard velho saappaat
+myrskyn laturilla päällystetyt rasvat
+myrskyn lahja salamurhaajan rukkaset
+sundance -lukitut saappaat
+auringosta huolimatta lukitut saappaat
+aaltoilevat lohikäärmemäiset hansikkaat
+tabula rasa yksinkertainen kylpytakki
+kiusaus askel shagreen saappaat
+amiraalin lakattu takki
+ennakointi ezomyte tornin kilpi
+paronin lähellä oleva kypärä
+pedon turkishuivi vaal regalia
+veritanssin hainahat saappaat
+messingikupolinen gladiaattorilevy
+suolaveden kruunun profeetan kruunu
+sateen painajaisen tuottaja bascinet
+rikkoutuneen kruunun profeetan kruunu
+tulevat onnettomuuden tuhoajan armeijat
+liiton hämähäkkisilkkipuku
+syvän nahan piilotettu pyöreä kilpi
+syövän diadem -nekromanssin ympyrän
+palsamoivan lihan rukkaset
+ikuinen omenan helisevä henkisuojus
+ikuisuuden verhon verho
+uusi lakattu kypärä
+muodoton liekin piirityskypärä
+muodoton Inferno Royal Burgonet
+murtuva pyörivä tylppä nuoli
+kamala teatterin tiikki pyöreä kilpi
+lokki korppi naamio
+kuolematon tulee archon leija kilpi
+ääretön takaa -ajaminen goliath -jäädyt
+raudan linnoituksen ristiretkilevy
+norsunluutornin pyhimys
+tammi lankku leija kilpi
+muuttohaukka -salaatti
+täydellinen muoto horoskooppinahka
+kuningattaren nälkävaaliregaliat
+rotan häkin hainahatunika
+punainen polku titan greaves
+levoton seurakunnan lihallinen haarniska
+oikeudenmukaisuuden asteikot soivat henkisuojus
+särkynyt jumaluuden tylppä nuoli värisee
+signaalipalolla kovettuva vapina
+signaali palo palo nuoli tärisee
+lumen sokea koronaalinen nahka
+jylhä salamurhaajan saappaat
+antautuminen ezomyte tornin kilpi
+Tempestin sitova naamio
+myrskyn vapautuksen tunteeton naamio
+kolmen lohikäärmeen kultainen naamio
+särkymätön tulee archon leija kilpi
+vertex vaal -maski
+jano kauhuista sodan solki
+tuhat nauhaa yksinkertainen kylpytakki
+tuhat hammasta temu vaal solki
+kolmivaiheiset hyökkäys shagreen saappaat
+thunderfistin murhakäsineet
+ukkosenvalo solaris -ympyrä
+tinkerskin sadistinen puku
+tituciuksen span vahvistettu tornisuoja
+titucus span vahvistettu tornisuojus
+tombfist -teräskokoiset hansikkaat
+torchoak -askel antiikkiset rasvat
+triad grip mesh -hanskat
+trolltimber spire setri torni kilpi
+tukohaman linnoituksen eebenpuun tornisuoja
+taipumaton liekki archon leijakilpi
+vaal hyväillä pronssiasteikon hansikkaat
+huntu yön suuri kypärä
+veruson lyövät oinaat titaanihanskat
+Victorian hyväntekeväisyyslaminoitu leijakilpi
+Victorian vaikutus lakattu vaate
+viperin vaaka täysimittainen panssari
+viridin huntu praetor kruunu
+vis mortis necromancer silkit
+viiksen vankeuteen kirjailtuja käsineitä
+vix lunaris kardinaali pyöreä kilpi
+voidbringer conjurer käsineet
+voidfletcher tunkeutuva nuoli
+voidwalkerin murhakengät
+volkuurin opas zealot -käsineet
+vollin suojelija pyhä ketjuposti
+vollin visio praetor kruunu
+tuhoamisen jälkeiset verkkokengät
+seinä Brambles -levyliivi
+vaeltelevat villakengät
+whakatutuki tai matua tahrattu henkikilpi
+myrskypurjeen pyörä mätäntynyt pyöreä kilpi
+wildwrap -hihna
+willclash kultainen naamio
+tuulisuojalla vahvistetut rasvat
+tuulensuojalla vahvistetut rasvat
+muutoksen tuulet muinaiset hansikkaat
+wonderertrap samettitossut
+Worldcarver -lohikäärmemäiset hansikkaat
+wraithlord luun ympyrä
+seppele rautarengasta
+wyrmsign wyrmscale -käsineet
+ylfebanin temppuileva hubris -ympyrä
+yriel hoitaa hienoa nahkaa
+zahndethuksen saksa -salvia -viitta
+zeelin vahvistin kiillotettu piikkisuojus
+abberathin sarvi vuohen sarvi
+actum teurastajakirves
+etenevä linnoitus suolen repeäjä
+agnerodin keisarillinen henkilökunta
+agnerod itäisen keisarillisen sauvan
+agnerod pohjoisen keisarillinen esikunta
+agnerodin eteläinen keisarillinen henkilökunta
+agnerod Westin keisarillinen esikunta
+ahnin ehkä keskiyön terä
+al dhih aikakulunut kynsi
+viehättää vaal kynsiä
+vahvistintangon spiraalisauva
+apepin raivon opaalisauva
+arakaalin fang fiend tikari
+arborix salamurhaaja jousi
+ashcaller kvartsisauva
+auringon driftwood clubin tuhka
+atzirin epämiellyttävä vaalikirves
+atzirin sääntöjen arviointihenkilöstö
+augyre void valtikka
+aurumvorax kori rapiiri
+aksiooma perpetuum pronssi valtikka
+balefire opaali valtikka
+hihnan terä ikuinen miekka
+binon keittiöveitsi teurastusveitsi
+bitterdream varjon valtikka
+kesän ruostuneen miekan verta
+veripelin stiletto
+verenetsijä hellionin tassu
+aivojen rattler -lihamylly
+neuvoston lihallisen valtikon hengitys
+brightbeak sota vasara
+brutuksen johtava sprinkleri rituaali valtikka
 callinellus malleus auric mace
-cameria's avarice gavel
-cameria's maul gavel
-cane of kulemak serpentine staff
-cane of unravelling ezomyte staff
-cerberus limb blood sceptre
-chaber cairn great mallet
-chin sol assassin bow
-chitus' needle elegant foil
-chober chaber great mallet
-clayshaper rock breaker
-cold iron point ezomyte dagger
-corona solaris crystal wand
-cospri's malice jewelled foil
-cybil's paw thresher claw
-daresso's passion estoc
-darkscorn assassin bow
-death's hand karui sceptre
-death's harp death bow
-death's opus death bow
-debeon's dirge despot axe
-demigod's authority golden blade
-disintegrator maelström staff
-divinarius imperial skean
-doomfletch royal bow
-doomfletch's prism royal bow
-doomsower lion sword
-doon cuebiyari vaal sceptre
-doryani's catalyst vaal sceptre
-dreadarc cleaver
-dreadbeak rusted sword
+Camerian ahneus
+Camerian maul -kaula
+ruoko kulemakin serpentiinihenkilöstöä
+ruoko purkaa ezomyten henkilökuntaa
+cerberuksen raajan veren valtikka
+chaber cairn suuri vasara
+leuka sol salamurhaaja jousi
+chitus neula tyylikäs folio
+chober chaber suuri vasara
+savenmuotoinen kivenmurtaja
+kylmä rautakärki ezomyte tikari
+corona solaris kristallisauva
+cosprin malice korukalvo
+cybilin tassun puimakynsi
+daresso intohimo estoc
+darkscorn salamurhaaja jousi
+kuoleman käsi karui valtikka
+kuoleman harppu kuoleman jousi
+kuoleman opus kuoleman jousi
+debeonin drage despot kirves
+puolijumalan auktoriteetti kultainen terä
+hajottaja maelströmin henkilökunta
+divinarius keisarillinen vino
+doomfletch kuninkaallinen jousi
+doomfletchin prisma kuninkaallinen jousi
+doomsower leijonan miekka
+doon cuebiyari vaal -valtikka
+doryanin katalysaattoripallo
+dreadarc -silppuri
+rastatukka ruostunut miekka
 dreadsurge cleaver
-dreamfeather eternal sword
-duskdawn maelström staff
-dyadus infernal axe
-dying breath iron staff
-dying breath coiled staff
-earendel's embrace grinning fetish
-eclipse solaris crystal wand
-edge of madness etched greatsword
-ephemeral edge dusk blade
-essentia sanguis eye gouger
-essentia sanguis vaal claw
-ewar's mirage antique rapier
-fate of the vaal gemstone sword
-femurs of the saints primordial staff
-fencoil gnarled branch
-fidelitas' spike jagged foil
-flesh-eater dream mace
-fragment of eternity glass shank
-frostbreath ornate mace
-geofri's baptism brass maul
-geofri's devotion brass maul
-goblinedge ambusher
-gorebreaker spiked club
-goredrill skinning knife
-grelwood shank eternal sword
-hand of thought and motion blinder
-hand of wisdom and action imperial claw
-heartbreaker royal skean
-hegemony's era judgement staff
-hezmana's bloodlust vaal axe
-hiltless reaver sword
-hopeshredder ranger bow
-hrimnor's dirge sledgehammer
-hrimnor's hymn sledgehammer
-hyaon's fury legion sword
-ichimonji corsair sword
-infractem decimation bow
-innsbury edge elder sword
-iron commander death bow
-izaro's dilemma imperial claw
-jack, the axe vaal hatchet
-jorrhast's blacksteel steelhead
-kaom's primacy karui chopper
-kingmaker despot axe
-kitava's feast void axe
-kondo's pride ezomyte blade
-kongor's undying rage terror maul
-lakishu's blade elegant sword
-last resort nailed fist
-lavianga's wisdom war hammer
-law of the wilds hellion's paw
-lifesprig driftwood wand
-limbsplit woodsplitter
-lioneye's glare imperial bow
-mark of the doubting knight platinum kris
+unelma sulka ikuinen miekka
+duskdawn maelströmin henkilökunta
+dyadus infernal kirves
+kuoleva hengitys rauta henkilökunta
+kuoleva henki kietoutui henkilökuntaan
+earendelin syleily virnistävä fetissi
+eclipse solaris kristallisauva
+hulluuden reuna syövi suuren miekan
+lyhytaikainen reuna hämäräterä
+essentia sanguis -silmänympärys
+essentia sanguis vaal kynsiä
+ewar's mirage antiikki rapiiri
+Vaal -jalokivimiekan kohtalo
+pyhien alkukantaisen sauvan reisiluut
+fencoil rypytetty haara
+fidelitasin piikki rosoinen kalvo
+lihansyöjä unelma mace
+fragmentti ikuisuuden lasista
+pakkashengitys koristeellinen nuija
+geofrin kaste messinki maul
+geofrin antaumus messinki maul
+goblinesge väijytys
+gorebreaker piikki klubi
+goredrill -kuorintaveitsi
+grelwood varren ikuinen miekka
+ajatuksen käsi ja liikkeen sokeuttaja
+viisauden ja toiminnan käsi keisarillinen kynsi
+sydämenmurtaja kuninkaallinen vino
+hegemonian aikakauden tuomaristo
+hezmanan verenhimoinen vaalikirves
+hiltless reaver miekka
+Hopehredder Ranger -jousi
+hrimnorin härkävasara
+hrimnorin hymni vasara
+hyaonin raivoinen legioonan miekka
+ichimonji corsair miekka
+infractem -desimaatiojousi
+innsbury edge vanhin miekka
+rauta komentaja kuoleman jousi
+Izaron dilemma keisarillinen kynsi
+tunkki, kirvesvaalin kirves
+jorrhastin musta teräspää
+kaom ensisijaisuus karui chopper
+kingmaker despot kirves
+kitavan juhla -tyhjä kirves
+kondon ylpeys ezomyte -terä
+kongorin kuolematon raivokohtaus
+Lakishun terä tyylikäs miekka
+viimeinen keino naulattu nyrkki
+laviangan viisauden sodan vasara
+villien laki hellionin tassun
+lifesprig driftwood sauva
+raajojen halkaisija
+lioneyen häikäisevä keisarillinen jousi
+epäilevän ritarin platina -krisin merkki
 marohi erqi karui maul
-martyr of innocence highborn staff
-midnight bargain engraved wand
-mightflay flaying knife
-mirebough gnarled branch
-mjölner gavel
-mon'tregul's grasp void sceptre
-moonbender's wing tomahawk
-moonsorrow imbued wand
-mortem morsu fright claw
-nebulis void sceptre
-nebuloch nightmare mace
-ngamahu's flame abyssal axe
-null's inclination ranger bow
-nuro's harp harbinger bow
-nycta's lantern crystal sceptre
-obliteration demon's horn
-oni-goroshi charan's sword
-ornament of the east gut ripper
-oro's sacrifice infernal sword
-panquetzaliztli jagged maul
+viattomuuden marttyyri korkea -asteinen henkilökunta
+keskiyön edullinen kaiverrettu sauva
+mayflay irrotusveitsi
+mirebough ryppyinen haara
+mjölnerin nauha
+mon'tregulin ote ontto valtikka
+moonbenderin siipi tomahawk
+kuunhuomenta täynnä sauva
+mortem morsu pelko kynsiä
+nebulis -tyhjä valtikka
+nebuloch painajainen mace
+ngamahun liekin syvä kirves
+nullin kaltevuudenvartijajousi
+nuron harppuharbinger -keula
+nyctan lyhtykristallivaltikko
+tuhoaminen demonin sarvi
+oni-goroshi charanin miekka
+itäisen suoliston ripperin koriste
+Oron uhraava helvetin miekka
+panquetzaliztli rosoinen maul
 paradoxica vaal rapier
-pillar of the caged god long staff
-pillar of the caged god iron staff
-piscator's vigil tornado wand
-pledge of hands judgement staff
-prismatic eclipse twilight blade
-quecholli jagged maul
-queen's decree ornate sword
-queen's escape ornate sword
-quill rain short bow
-razor of the seventh sun midnight blade
-reach of the council spine bow
-realm ender iron staff
-realmshaper iron staff
-reaper's pursuit shadow axe
-rebuke of the vaal vaal blade
-redbeak rusted sword
-reefbane fishing rod
-relentless fury decorative axe
-relic of the cycle crude bow
-relic of the pact spiraled wand
-replica advancing fortress gut ripper
+häkkiin jumalallisen pitkän sauvan pilari
+häkin jumalan rautaisen sauvan pilari
+kalastaja valppaana tornado sauva
+käsien pantti tuomarihenkilöstö
+prismainen pimennyshämärän terä
+quecholli rosoinen maul
+kuningattaren asetuksen koristeellinen miekka
+kuningattaren paeta koristeellinen miekka
+sulkasade lyhyt jousi
+seitsemännen auringon keskiyön terän partaveitsi
+neuvoston selkärangan ulottuvilla
+valtakunnan ender rauta henkilökunta
+realmshaper rauta henkilökunta
+reaper's takaa -ajo varjo kirves
+vaalipalkin terän nuhtelu
+redbeak ruostunut miekka
+reefbanen onki
+säälimätön raivo koriste kirves
+kierron raakaöljyn jäänne
+sopimuksen pyöreän sauvan jäänne
+replica etenevä linnoitus suolen ripper
 replica allure vaal claw
-replica bitterdream shadow sceptre
+replica bitterdream varjo valtikka
 replica bloodplay stiletto
-replica blood thorn gnarled branch
-replica cold iron point ezomyte dagger
-replica dreamfeather eternal sword
-replica duskdawn maelström staff
-replica earendel's embrace grinning fetish
-replica fencoil gnarled branch
-replica frostbreath ornate mace
-replica harvest jasper chopper
-replica heartbreaker royal skean
-replica infractem decimation bow
-replica innsbury edge elder sword
-replica iron commander death bow
-replica kongor's undying rage terror maul
-replica last resort nailed fist
-replica midnight bargain engraved wand
-replica nebulis void sceptre
-replica oro's sacrifice infernal sword
+kopio verinen piikki ryppyinen haara
+replica kylmä rauta pisteen ezomyte tikari
+replica dreamfeather ikuinen miekka
+replica duskdawn maelström henkilökunta
+replica earendelin syleily virnistävä fetissi
+replica fencoil rypytetty haara
+replica frostbreath koristeellinen nuija
+kopio sato jaspis chopper
+replica sydämenmurtaja kuninkaallinen skean
+replica infractem decimation jousi
+replica innsbury edge vanhin miekka
+kopio rauta komentaja kuoleman jousi
+replica kongorin kuolematon raivokohtaus
+kopio viimeinen keino naulattu nyrkki
+replica midnight bargain kaiverrettu sauva
+replica nebulis tyhjä valtikka
+replica oro uhri helvetin miekka
 replica paradoxica vaal rapier
-replica quill rain short bow
-replica soul taker siege axe
-replica tempestuous steel war sword
-replica trypanon great mallet
-replica tulfall tornado wand
-replica twyzel sage wand
-replica ungil's gauche boot knife
-replica windripper imperial bow
-replica wings of entropy ezomyte axe
-reverberation rod spiraled wand
-rigwald's charge highland blade
-rigwald's command midnight blade
-rigwald's savagery royal axe
-rive terror claw
-roth's reach recurve bow
-rust of winter rusted hatchet
-sanguine gambol skinning knife
+replica sulka lyhyt keula
+replica soul taker piirityksen kirves
+kopio myrskyisä teräs sota miekka
+replika trypanon suuri vasara
+replica tulfall tornado sauva
+kopio twyzel salvia sauva
+replica ungil's gauche boot veitsi
+replica windripper keisarillinen jousi
+kopio siivet entropian ezomyte kirves
+kaiku sauva kierretty sauva
+rigwaldin lataus ylämaan terä
+rigwaldin komento keskiyön terä
+rigwaldin villi kuninkaallinen kirves
+rive terror kynsi
+rothin ulottuvuus
+ruoste talven ruostunut kirves
+sanguine gambol -veitsen veitsi
 scaeva gladius
-scar of fate nailed fist
-severed in sleep cutlass
-shade of solaris sage wand
-shimmeron tornado wand
-shiversting bastard sword
-sign of the sin eater tyrant's sekhem
-silverbough crude bow
-silverbranch crude bow
-singularity platinum sceptre
-sinvicta's mettle ezomyte axe
-sire of shards serpentine staff
-slivertongue harbinger bow
-song of the sirens fishing rod
-soul taker siege axe
-soulwrest ezomyte staff
-spine of the first claimant iron sceptre
-splinter of the moon driftwood wand
-starforge infernal sword
-storm cloud long bow
-storm prison carved wand
-story of the vaal gemstone sword
-story of the vaal variscite blade
-taproot ambusher
-taryn's shiver maelström staff
-terminus est tiger sword
-the black cane royal sceptre
-the blood reaper headsman axe
-the blood thorn gnarled branch
-the cauteriser woodsplitter
-the consuming dark fiend dagger
-the crimson storm steelwood bow
-the dancing dervish reaver sword
-the dancing duo reaver sword
-the dark seer shadow sceptre
-the enmity divine imperial staff
-the fulcrum ezomyte staff
-the goddess bound whalebone rapier
-the goddess scorned elegant sword
-the goddess unleashed eternal sword
-the grey spire judgement staff
-the gryphon jade hatchet
-the harvest jasper chopper
-the hidden blade ambusher
-the iron mass gladius
-the poet's pen carved wand
-the princess sabre
-the rippling thoughts legion sword
-the saviour legion sword
-the scourge terror claw
-the screaming eagle jade hatchet
-the searing touch lathi
-the searing touch long staff
-the stormheart royal staff
-the stormwall royal staff
-the supreme truth crystal sceptre
-the surging thoughts legion sword
-the tempest long bow
-the tempestuous steel war sword
-the wasp nest throat stabber
-the whispering ice vile staff
-the yielding mortality imperial staff
-thunder of the dawn corroded blade
-tidebreaker imperial maul
-tipua kaikohuru whalebone rapier
-touch of anguish imperial claw
-tremor rod military staff
-trypanon great mallet
-tulborn spiraled wand
-tulfall tornado wand
-twyzel sage wand
-ungil's gauche boot knife
-united in dream cutlass
-uul-netol's embrace vaal axe
-uul-netol's kiss labrys
-varunastra vaal blade
-vestige of divinity gnarled branch
-void battery prophecy wand
-voidforge infernal sword
+kohtalon arpi naulattu nyrkki
+katkaistu nukkumislasissa
+sävy solaris salvia sauva
+shimmeron tornado -sauva
+vapiseva paskiainen miekka
+merkki syntiä syövän tyrannin sekhemistä
+silverbough raaka jousi
+hopeahaarainen raaka jousi
+singulaarisuus platina valtikka
+sinvicta mettle ezomyte kirves
+sirpaleiden isä serpentiinihenkilöstö
+slivertongue harbinger keula
+laulu sireenien onkista
+soul sieer piirityksen kirves
+soulwrest ezomyte henkilökunta
+ensimmäisen rautavaltaisen valtikon selkäranka
+kuun halkeama ajopuuta
+starforge helvetin miekka
+myrskypilvi pitkä jousi
+myrskyn vankilan veistetty sauva
+tarina vaal -jalokivimiekasta
+tarina vaal variscite -terästä
+taproot -väijytys
+taryn tärisee maelströmin henkilökuntaa
+pääte tiikeri miekka
+musta ruoko kuninkaallinen valtikka
+verta leikkaavan päämiehen kirves
+verinen piikki ryppyinen haara
+cauteriser puunhalkaisija
+kuluttava tumma piru tikari
+karmiininpunainen myrsky teräspuun keula
+tanssiva dervish -pelastajan miekka
+tanssiva duo reaver miekka
+tumma näkijä varjo valtikka
+vihollisuuden jumalallinen keisarillinen sauva
+tukipisteen ezomyten henkilökunta
+jumalatar sidottu valaanluun rapiiri
+jumalatar halveksi tyylikästä miekkaa
+jumalatar löi ikuisen miekan
+harmaan tornin tuomaristo
+gryphon jade hatchet
+sadonkorjuun jaspisleikkuri
+piilotettu terän väijytys
+rauta massa gladius
+runoilijan kynästä veistetty sauva
+prinsessa sapeli
+väreilevät ajatukset legioonan miekka
+pelastaja legioonan miekka
+vitsaus terrorikynsi
+huutava kotka jade kirves
+paahtava kosketuslathi
+paahtava koskettaa pitkä henkilökunta
+myrskysydämen kuninkaallinen henkilökunta
+myrskyn kuninkaallinen henkilökunta
+ylin totuuden kristalli valtikka
+kiihtyvät ajatukset legioonan miekka
+kuumin pitkä jousi
+myrskyisä teräs sotamiekka
+ampiaisen pesän kurkun puukottaja
+kuiskaava jäähyvä henkilöstö
+kuolleisuuden keisarillinen sauva
+aamunkoitto syöpynyt terä
+vuorovedenmurtaja keisarillinen maul
+tipua kaikohuru valaanluun rapiiri
+ahdistavaa keisarillista kynsiä
+vapina sauva sotilashenkilöstö
+trypanon suuri vasara
+tulborn spiraled sauva
+tulfall tornado sauva
+twyzel salvia sauva
+ungil's gauche boot veitsi
+yhtenäinen unelma -leikkauksessa
+uul-netolin syleilevä vaalikirves
+uul-netolin suudelmat
+varunastra -vaaliterä
+jumaluuden jäännökset rypistynyt haara
+mitätön akun profetiasauva
+voidforge helvetin miekka
 voidhome dread maul
-voltaxic rift spine bow
-vulconus demon dagger
-white wind imperial skean
-wideswing poleaxe
-widowmaker boot blade
+voltaksinen halkeama selkärangan keula
+vulconus demoni tikari
+valkoinen tuuli keisarillinen vino
+laajakulmainen napa
+leskentekijän saappaateri
 wildslash awl
-windripper imperial bow
-wings of entropy sundering axe
-wings of entropy ezomyte axe
-witchhunter's judgment highborn staff
-xirgil's crank coiled staff
-xoph's inception bone bow
-xoph's nurture citadel bow
-yaomac's accord vaal sceptre
+windripper keisarillinen jousi
+entropian sundering -kirveen siivet
+entropian siivet ezomyte kirves
+noidanmetsästäjän tuomio korkeasti syntynyt henkilökunta
+xirgilin kampi kelautti sauvaa
+xophin luun jousi
+xophin kasvatus linnoituksen keula
+yaomacin sovitusvaalipatruuna
