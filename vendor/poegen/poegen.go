@@ -75,7 +75,7 @@ func pickString(data map[string][]string) (map[string]string, error) {
 }
 
 // refresh eng itemnames
-func parseItemJson(fname string) {
+func ParseItemJson(fname string) {
 	f, err := os.Open(fname)
 	if err != nil {
 		panic(err)
@@ -136,7 +136,6 @@ func init() {
 	if err != nil {
 		panic("pop map")
 	}
-	parseItemJson("items.json")
 }
 
 func Generate() string {
